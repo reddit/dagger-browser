@@ -1,7 +1,7 @@
 {
   "name": "daglava2",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://reddit.github.io/dagger-browser",
   "private": true,
   "dependencies": {
     "@coreui/coreui": "^4.1.0",
@@ -17,10 +17,10 @@
     "@types/react-router-dom": "^5.1.0",
     "@types/react-select": "^3.0.5",
     "axios": "^0.21.1",
-    "mdbreact": "4.27.0",
     "classnames": "^2.2.6",
     "clipboard-copy": "^4.0.1",
     "jest": "^27.2.1",
+    "mdbreact": "4.27.0",
     "query-string": "^6.8.3",
     "react": "^16.10.2",
     "react-autosuggest": "^9.4.3",
@@ -36,6 +36,8 @@
     "use-query-params": "^0.4.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "jest",
@@ -66,6 +68,7 @@
     "chai": "^4.3.4",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
+    "gh-pages": "^5.0.0",
     "jest": "27.2.1"
   }
 }
