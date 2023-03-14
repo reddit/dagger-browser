@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dagger-browser/static/css/main.1c032f66.chunk.css",
+    "main.js": "/dagger-browser/static/js/main.25eddd2f.chunk.js",
+    "main.js.map": "/dagger-browser/static/js/main.25eddd2f.chunk.js.map",
+    "runtime-main.js": "/dagger-browser/static/js/runtime-main.ea7025cd.js",
+    "runtime-main.js.map": "/dagger-browser/static/js/runtime-main.ea7025cd.js.map",
+    "static/css/2.012ab259.chunk.css": "/dagger-browser/static/css/2.012ab259.chunk.css",
+    "static/js/2.7f661bb4.chunk.js": "/dagger-browser/static/js/2.7f661bb4.chunk.js",
+    "static/js/2.7f661bb4.chunk.js.map": "/dagger-browser/static/js/2.7f661bb4.chunk.js.map",
+    "index.html": "/dagger-browser/index.html",
+    "precache-manifest.fc0a90a0aaee0192e6b0c96b3371ef56.js": "/dagger-browser/precache-manifest.fc0a90a0aaee0192e6b0c96b3371ef56.js",
+    "service-worker.js": "/dagger-browser/service-worker.js",
+    "static/css/2.012ab259.chunk.css.map": "/dagger-browser/static/css/2.012ab259.chunk.css.map",
+    "static/css/main.1c032f66.chunk.css.map": "/dagger-browser/static/css/main.1c032f66.chunk.css.map",
+    "static/media/mdb.css": "/dagger-browser/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/dagger-browser/static/media/fa-solid-900.d824df7e.woff2",
+    "static/media/link.png": "/dagger-browser/static/media/link.757c2f47.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea7025cd.js",
+    "static/css/2.012ab259.chunk.css",
+    "static/js/2.7f661bb4.chunk.js",
+    "static/css/main.1c032f66.chunk.css",
+    "static/js/main.25eddd2f.chunk.js"
+  ]
+}
